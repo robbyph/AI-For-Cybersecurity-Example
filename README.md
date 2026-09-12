@@ -1,2 +1,2 @@
 # AI-For-Cybersecurity-Example
-Example
+This is a project used as an example for my class on AI and Cyber
